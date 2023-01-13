@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[709],{3893:function(e,n,t){t.r(n),t.d(n,{CmsPage:function(){return i}});var u=t(1163),r=t(211),a=t(2829),c=t(7532),s=t(5893),i=function(){var e=(0,u.useRouter)(),n=(0,a.O)(e.query.line)||"",t=(0,r.i7)("/pdp/contacts",{packId:n}).data;return t?(0,s.jsx)(s.Fragment,{children:t.widgets.map(c.G)}):null}}}]);
